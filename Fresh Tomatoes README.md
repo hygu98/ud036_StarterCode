@@ -2,7 +2,7 @@
 Source code for a Movie Trailer website.
 
 ## How to use this code
-entertainment_center.py is the file that runs this application  To run the application, copy the below files to the python directory and runt the entertainment_center.py module in IDLE.
+entertainment_center.py is the file that runs this application.  To run the application, copy the below files to the python directory and runt the entertainment_center.py module in IDLE.
 
 * -fresh_tomatoes.py
 * -entertainment_center.py
